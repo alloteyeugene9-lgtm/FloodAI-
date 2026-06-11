@@ -1,0 +1,6 @@
+{
+  "river_levels": [{"station":"Odaw River","level_m":2.3}],
+  "rainfall_mm_last_24h": 45,
+  "warnings": ["Local flash flood watch for Odaw basin"],
+  "timestamp": "2026-06-11T00:00:00Z"
+}

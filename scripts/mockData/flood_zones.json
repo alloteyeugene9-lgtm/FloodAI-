@@ -1,0 +1,5 @@
+[
+  {"zone":"Odaw River basin","risk":"CRITICAL","notes":"Low-lying, frequent overflow near Korle Lagoon"},
+  {"zone":"Korle Lagoon","risk":"HIGH","notes":"Choked drainage; urban flooding common"},
+  {"zone":"Abossey Okai","risk":"HIGH","notes":"Poor drainage and dense population"}
+]

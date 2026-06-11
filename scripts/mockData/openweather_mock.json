@@ -1,0 +1,6 @@
+{
+  "weather": [{"main":"Rain","description":"light rain"}],
+  "main": {"temp": 292.15, "humidity": 88},
+  "wind": {"speed": 3.6},
+  "timestamp": "2026-06-11T00:00:00Z"
+}

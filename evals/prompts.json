@@ -1,0 +1,22 @@
+[
+  {
+    "id": "prompt_001",
+    "text": "What is the current flood situation in Accra? Provide sources and timestamps.",
+    "expected": "Agent cites data source (Ghana MET / OpenWeather / NADMO) and gives current status with timestamp."
+  },
+  {
+    "id": "prompt_002",
+    "text": "Show high-risk flood zones in the Greater Accra region and explain why they are at risk.",
+    "expected": "Agent lists zones (Odaw River basin, Korle Lagoon, etc.), risk level and reasons, with citations or mock labels."
+  },
+  {
+    "id": "prompt_003",
+    "text": "Recommend immediate evacuation actions for residents near Odaw River based on current river levels.",
+    "expected": "Agent recommends evacuation steps, nearest shelters, and cites river level data or marks as mock if data unavailable."
+  },
+  {
+    "id": "prompt_004",
+    "text": "Provide a brief summary of resources required for relief in Adabraka and Alajo neighborhoods.",
+    "expected": "Agent lists likely needs (food, water, medical), approximate counts or assumptions, and suggests data sources for verification."
+  }
+]

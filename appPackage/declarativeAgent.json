@@ -1,0 +1,29 @@
+{
+    "$schema": "https://developer.microsoft.com/json-schemas/copilot/declarative-agent/v1.0/schema.json",
+    "version": "v1.0",
+    "name": "FloodAI",
+    "description": "Ghana Government Flood Intelligence Agent for Accra flood management and emergency response",
+    "instructions": "$[file('instruction.txt')]",
+    "capabilities": [
+      {
+        "name": "WebSearch"
+      }
+    ],
+    "conversation_starters": [
+      {
+        "text": "What is the current flood situation in Accra?"
+      },
+      {
+        "text": "Show me high-risk flood zones in the Greater Accra region."
+      },
+      {
+        "text": "How can I coordinate emergency response teams for this flood event?"
+      },
+      {
+        "text": "What flood warnings are active for communities near the Odaw River?"
+      },
+      {
+        "text": "Recommend immediate actions for flood relief, evacuation, and safety."
+      }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+  "name": "floodai",
+  "version": "0.1.0",
+  "description": "FloodAI demo for Accra flood intelligence",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "demo": "node scripts/run_demo.js"
+  }
+}
